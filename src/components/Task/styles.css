@@ -1,0 +1,7 @@
+/* deberia tener las clases bien definidas con nombres ejemplo .close-ToDoList ---> es para no confundirme 
+ para que no me confunda y luego los otros componetnes 
+ compartan estilo que no quiero */
+.close{
+    color: #F00;
+    font-size: 24px;
+}
